@@ -71,8 +71,8 @@ threadpoolctl==3.6.0
 tokenizers==0.21.1
 toml==0.10.2
 torch==2.7.1
-torchaudio==2.7.1+cu118
-torchvision==0.22.1+cu118
+torchaudio==2.7.1
+torchvision==0.22.1
 tornado==6.5.1
 tqdm==4.67.1
 transformers==4.52.4
