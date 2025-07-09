@@ -21,7 +21,7 @@ st.markdown("""
 
 # Sidebar Branding
 with st.sidebar:
-    st.image("C:/Users/txcwa/txcwalker/static/images/GonePhishingLogo.png", width=120)  # Optional logo
+    #st.image("C:/Users/txcwa/txcwalker/static/images/GonePhishingLogo.png", width=120)  # Optional logo
     st.markdown("### Gone Phishing")
     st.markdown("Built by [Cameron Walker](https://www.linkedin.com/in/cameronjwalker9/)")
     st.markdown("[View on GitHub](https://github.com/txcwalker)")
